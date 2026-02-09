@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Minn ArKar</h1>
-<h3 align="center">A passionate backend developer from Myanmar</h3>
+<h3 align="center">A passionate versatile software developer from Myanmar</h3>
 
-- 🌱 I’m currently learning **PHP/Laravel and .NET**
+- 🌱 I’m currently learning **.NET**
 
-- 📫 How to reach me **minnarkar68@gmail.com**
+- 📫 How to reach me **dev.arkar.minn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
