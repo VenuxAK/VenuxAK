@@ -8,8 +8,10 @@
 <a href="https://fb.com/venux.ak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="venux.ak" height="30" width="40" /></a>
 <a href="https://instagram.com/venux.code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="venux.code" height="30" width="40" /></a>
 
-<a href="https://t.me/V3NU8" target="blank"><img width="960" alt="Telegram logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/960px-Telegram_logo.svg.png" alt="venux.code" height="30" width="40"></a>
-
+<a href="https://t.me/V3NU8" target="blank">
+<img width="30" height="30" alt="Telegram Logo" src="https://github.com/user-attachments/assets/a07f48c2-98fa-41e5-883f-b972ac8a0afd" />
+</a>
+</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
