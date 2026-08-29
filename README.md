@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Ar%20Kar%20Minn%20&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" height="30px" width="30px"> I'm Minn ArKar</h1>
+<h3 align="center">Full-Stack Developer | AI-Driven Software Engineer</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=VenuxAK">
@@ -6,86 +7,81 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/22/16/5b/22165b850f5da24a7c5114fa99e411b2.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
+- 🌱 I'm currently exploring advanced system architecture and distributed systems
+- 🔭 I'm looking to collaborate on robust full-stack applications and open-source tools
 
-- I thrive on designing modular, scalable systems—from clean REST APIs to integrating modern AI capabilities into real-world business applications.
 
 ## 🧠 My Focus Areas
-
-- Focused on integrating LLM capabilities and AI-driven automation into scalable web applications to build smarter, adaptive features.
-- Exploring the intersection of core software engineering and Artificial Intelligence.
-
-## 📊 GitHub Stats & Trophies
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=VenuxAK&theme=merko&hide_border=true&cache_seconds=86400" alt="VenuxAK's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=VenuxAK&theme=merko&radius=10" alt="VenuxAK's Activity Graph" />
-</p>
+- Full-Stack Web Development
+- Backend Architecture & API Design
+- Database Optimization & System Performance
+- AI/LLM Application Integration
 
 ## 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;
+
 </p>
 
 <h3 align="center">Frontend</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" />&nbsp;&nbsp;&nbsp;
+  <img width="40" alt="Nuxt.js" src="https://github.com/user-attachments/assets/c0725645-2312-4bb9-b21b-152de80e949d" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;
+  <img width="40" alt="Next.js" src="https://github.com/user-attachments/assets/4b9806cb-f149-4121-b12c-f6b8717ad9b1" />
 </p>
 
 <h3 align="center">Backend</h3>
 <p align="center">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="40" alt="Laravel" src="https://github.com/user-attachments/assets/7f6064bb-ab78-4d32-b7a3-11242dacfae9" />&nbsp;&nbsp;&nbsp;
+  <img width="40" alt="FastAPI" src="https://github.com/user-attachments/assets/ea3d23b6-8436-496f-bb9d-12d6c430a79d" />
 
 </p>
 
-<h3 align="center">Databases</h3>
+<h3 align="center">Database</h3>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
+
 </p>
 
 <h3 align="center">DevOps & Cloud</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
+  <img width="40" alt="Docker" src="https://github.com/user-attachments/assets/eb93d8fc-748e-482b-ba6e-5f926858ad97" />&nbsp;&nbsp;&nbsp;
+  <img width="40" alt="Cloudflare" src="https://github.com/user-attachments/assets/2fa3add4-e632-4987-908e-22a276d5243a" />&nbsp;&nbsp;&nbsp;
+  <img width="40" alt="AWS" src="https://github.com/user-attachments/assets/4082e672-9308-43c6-abcc-d4a9a65f2e8c" />&nbsp;&nbsp;&nbsp;
 </p>
 
 <h3 align="center">Tools</h3>
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />&nbsp;&nbsp;&nbsp;
+  <img width="40" alt="Linux" src="https://github.com/user-attachments/assets/3be4aafd-6494-497a-88a4-c449623b0315" />&nbsp;&nbsp;&nbsp;
+  <img width="40" alt="Debian" src="https://github.com/user-attachments/assets/79d6dd2c-cea7-40a3-ad0a-9af7ac06824d" />
+
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=VenuxAK)
-<br/>
-
 ## 🔗 Connect with Me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/ar-kar-minn-b20623238">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:minnarkar68@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>
+  <a href="https://www.linkedin.com/in/ar-kar-minn-b20623238"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Minn ArKar's LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:minnarkar68@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Minn ArKar's Email"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://venuxlabs.com"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
 </p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
+
